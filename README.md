@@ -1,0 +1,1 @@
+This example demonstrates a common error in Ada programming related to subtype assignments.  When a subtype is created from a parent type, directly assigning a variable of the parent type to a variable of its subtype is not always allowed. The example shows how to correctly handle the assignment in such situations to avoid runtime errors or compilation errors.
